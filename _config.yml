@@ -8,8 +8,8 @@ url: "http://BerkeleyDataScienceGroup.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+url: "http://BerkeleyDataScienceGroup.github.io/projects"
+baseurl: "/projects"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutus"
+  About Me: "about_us"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
